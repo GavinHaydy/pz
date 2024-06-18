@@ -9,6 +9,6 @@ django-reversion==3.0.7
 PyMySQL==1.1.1
 PyYAML==3.12
 requests==2.32.0
-urllib3==1.26.18
+urllib3==1.26.19
 xadmin2==2.0.3
 
