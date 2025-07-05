@@ -7,7 +7,7 @@
 >服务器
 
     python版本推荐 3.6.6
-    系统: centOS7
+    系统: ubuntu
 ## Build Setup
 
 ```　　
